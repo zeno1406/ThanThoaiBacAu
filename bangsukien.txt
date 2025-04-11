@@ -1,0 +1,11 @@
+------------------------------------------------
+1XY Tìm thấy một mảnh thiên thạch màu xanh
+2XY Tìm thấy một mảnh thiên thạch màu đỏ
+3XY Đến đền thờ của thần Asclepius
+4XY Gặp quái vật của thần Ares
+5XY Gặp nữ thần Athena
+6XY Nhặt được lá chắn của thần Zeus
+7XY Gặp Titan
+8XY Gặp nữ thần Hera
+9XY Gặp thần Hermes
+------------------------------------------------

@@ -1,0 +1,29 @@
+R
+N
+ID
+M
+E1 E2 E3 ... En
+Trong đó:
+• R - Là một số nguyên ngẫu nhiên nằm trong khoảng từ [1..10].
+• N - Là giá trị tổng số lượng mảnh thiên thạch cần tìm, là một số nguyên từ 1 đến 99.
+• ID: Là một số nguyên nằm trong khoảng [1..4].
+– ID = 1: Perseus - Anh hùng được Athena tin tưởng nhất, có HP bằng 999.
+– ID = 2: Theseus - Vị vua huyền thoại của Athens, có HP bằng 900.
+– ID = 3: Odysseus - Người nổi tiếng với trí thông minh, có HP bằng 888.
+– ID = 4: Hercules - Á thần với sức mạnh phi thường, có HP bằng 777.
+• M: Là số drachma (tiền vàng Hy Lạp cổ đại) ban đầu mà các anh hùng mang theo, là
+một số nguyên có giá trị trong khoảng[0...999].
+• Ei: Là mã sự kiện thứ i xảy ra trên hành trình. Mỗi sự kiện được đánh số từ 1 và được
+mô tả bằng một mã số. Chi tiết về ý nghĩa của từng mã sự kiện được trình bày trong
+Bảng 1.
+Ví dụ 1: Với dữ liệu nhập là
+3
+12
+1
+300
+131 401 999
+Anh hùng là Perseus, cần phải đi tìm 12 mảnh thiên thạch, có số drachma ban đầu là
+300. Các sự kiện diễn ra trên đường đi như sau:
+• Sự kiện 1: Tìm thấy một mảnh thiên thạch màu xanh.
+• Sự kiện 2: Gặp một quái vật của thần Ares.
+• Sự kiện 3: Gặp thần Hermes.
